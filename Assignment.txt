@@ -1,3 +1,7 @@
 Hi, my name is Fozan Ahmad Khan
 i am a first year computer science student 
 at NED University
+
+
+This is our second FIT Assignment 
+My Submission Date: 31/10/24
